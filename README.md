@@ -1,8 +1,8 @@
 👋 Hi, I’m @silviacolella
 
-👀 I’m interested in data science and its related areas, including image processing and neuro language processing
+👀 I’m interested in data related technologies and DevOps culture, I love both so trying to find out where I fit in :)
 
-🌱 I’m currently learning about NLP and data engineering career/its associated technologies, trying to find out where I fit in :)
+🌱 I’m currently learning about Ansible! 
 
 <!-- 💞️ I’m looking to collaborate on ... -->
 
